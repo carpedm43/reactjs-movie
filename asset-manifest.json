@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/carpedm43/reactjs-movie/static/css/main.a44073c5.chunk.css",
-    "main.js": "/carpedm43/reactjs-movie/static/js/main.95ac9aee.chunk.js",
-    "main.js.map": "/carpedm43/reactjs-movie/static/js/main.95ac9aee.chunk.js.map",
+    "main.css": "/carpedm43/reactjs-movie/static/css/main.cbae37b1.chunk.css",
+    "main.js": "/carpedm43/reactjs-movie/static/js/main.ed9278e8.chunk.js",
+    "main.js.map": "/carpedm43/reactjs-movie/static/js/main.ed9278e8.chunk.js.map",
     "runtime-main.js": "/carpedm43/reactjs-movie/static/js/runtime-main.2d9e9130.js",
     "runtime-main.js.map": "/carpedm43/reactjs-movie/static/js/runtime-main.2d9e9130.js.map",
-    "static/js/2.f07c8d21.chunk.js": "/carpedm43/reactjs-movie/static/js/2.f07c8d21.chunk.js",
-    "static/js/2.f07c8d21.chunk.js.map": "/carpedm43/reactjs-movie/static/js/2.f07c8d21.chunk.js.map",
+    "static/js/2.1dc9ffed.chunk.js": "/carpedm43/reactjs-movie/static/js/2.1dc9ffed.chunk.js",
+    "static/js/2.1dc9ffed.chunk.js.map": "/carpedm43/reactjs-movie/static/js/2.1dc9ffed.chunk.js.map",
     "index.html": "/carpedm43/reactjs-movie/index.html",
-    "static/css/main.a44073c5.chunk.css.map": "/carpedm43/reactjs-movie/static/css/main.a44073c5.chunk.css.map",
-    "static/js/2.f07c8d21.chunk.js.LICENSE.txt": "/carpedm43/reactjs-movie/static/js/2.f07c8d21.chunk.js.LICENSE.txt"
+    "static/css/main.cbae37b1.chunk.css.map": "/carpedm43/reactjs-movie/static/css/main.cbae37b1.chunk.css.map",
+    "static/js/2.1dc9ffed.chunk.js.LICENSE.txt": "/carpedm43/reactjs-movie/static/js/2.1dc9ffed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2d9e9130.js",
-    "static/js/2.f07c8d21.chunk.js",
-    "static/css/main.a44073c5.chunk.css",
-    "static/js/main.95ac9aee.chunk.js"
+    "static/js/2.1dc9ffed.chunk.js",
+    "static/css/main.cbae37b1.chunk.css",
+    "static/js/main.ed9278e8.chunk.js"
   ]
 }
